@@ -1,0 +1,30 @@
+{
+  "name": "telegram_bio_bot",
+  "version": "1.0.0",
+  "description": "This is a simple bot that stores a small introduction (a 'bio') for use in Telegram groups.",
+  "main": "bot.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-telegram-bot-api": "^0.50.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/WaseemAlkurdi/BioBot.git"
+  },
+  "keywords": [
+    "bio",
+    "bot",
+    "telegram",
+    "node"
+  ],
+  "author": "Waseem Alkurdi",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/WaseemAlkurdi/BioBot/issues"
+  },
+  "homepage": "https://github.com/WaseemAlkurdi/BioBot#readme"
+}
